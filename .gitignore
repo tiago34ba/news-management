@@ -1,0 +1,10 @@
+/vendor/
+/node_modules/
+/public/storage/
+/public/hot/
+/public/*.php
+/public/.htaccess
+/public/web.config
+Homestead.yaml
+Homestead.json
+.env
